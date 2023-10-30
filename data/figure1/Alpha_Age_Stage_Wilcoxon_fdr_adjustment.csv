@@ -1,0 +1,21 @@
+,sorted_groups,Index,group1,group2,P_Value,Adjusted_P_Value_Index,p.adj
+1,young 0-young 4,Shannon,young 4,young 0,0.0077,0.0308,0.0771
+2,old 4-young 4,Shannon,young 4,old 4,0.9074,0.9074,0.9074
+3,old 0-young 0,Shannon,young 0,old 0,0.116,0.2321,0.2434
+4,old 0-old 4,Shannon,old 4,old 0,0.4434,0.5912,0.5976
+5,young 0-young 4,Clonality,young 4,young 0,0.2916,0.3888,0.486
+6,old 4-young 4,Clonality,young 4,old 4,0.0201,0.065,0.0872
+7,old 0-young 0,Clonality,young 0,old 0,0.0325,0.065,0.1056
+8,old 0-old 4,Clonality,old 4,old 0,0.4242,0.4242,0.5976
+9,young 0-young 4,Richness,young 4,young 0,0.0218,0.0872,0.0872
+10,old 4-young 4,Richness,young 4,old 4,0.2366,0.4733,0.4302
+11,old 0-young 0,Richness,young 0,old 0,0.465,0.497,0.5976
+12,old 0-old 4,Richness,old 4,old 0,0.497,0.497,0.5976
+13,young 0-young 4,Chao1,young 4,young 0,0.0159,0.0318,0.0872
+14,old 4-young 4,Chao1,young 4,old 4,0.0958,0.1278,0.2396
+15,old 0-young 0,Chao1,young 0,old 0,1e-04,2e-04,0.0012
+16,old 0-old 4,Chao1,old 4,old 0,0.5678,0.5678,0.5976
+17,young 0-young 4,Simpson,young 4,young 0,0.037,0.1478,0.1056
+18,old 4-young 4,Simpson,young 4,old 4,0.5335,0.5608,0.5976
+19,old 0-young 0,Simpson,young 0,old 0,0.1217,0.2434,0.2434
+20,old 0-old 4,Simpson,old 4,old 0,0.5608,0.5608,0.5976

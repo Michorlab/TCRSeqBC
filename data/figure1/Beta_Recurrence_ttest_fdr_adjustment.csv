@@ -1,0 +1,11 @@
+,Index,group1,group2,Age_Bin,P_Value,p.adj
+1,Shannon,yes,no,old,0.29805,0.5961
+2,Clonality,yes,no,old,0.53678,0.7069
+3,Richness,yes,no,old,0.1232,0.5015
+4,Chao1,yes,no,old,0.11788,0.5015
+5,Simpson,yes,no,old,0.63621,0.7069
+6,Shannon,yes,no,young,0.36669,0.61115
+7,Clonality,yes,no,young,0.60191,0.7069
+8,Richness,yes,no,young,0.15045,0.5015
+9,Chao1,yes,no,young,0.27034,0.5961
+10,Simpson,yes,no,young,0.83117,0.83117

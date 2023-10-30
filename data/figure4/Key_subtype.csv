@@ -1,0 +1,19 @@
+﻿,Stage,BOB#,PathologyRecNum,age,ACE,Chao1,gini_simpson,inv_simpson,richness,shannon,CPC_T,CPC_N,CPC_M,CPC_Stage,CPC_Grade,CPC_ER,CPC_PR,CPC_Her2
+BOB12371,0,BOB12371,SS08-02337,39,low,low,low,low,low,high,is,0,X,0,1,positive,negative,no answer
+BOB12540,0,BOB12540,BS08-T00543,40,high,high,high,high,high,low,is,X,X,0,3,negative,negative,positive
+BOB16124,0,BOB16124,MS09-X79183,39,low,low,low,low,low,high,is,0,X,0,3,positive,negative,no answer
+BOB17103,0,BOB17103,MS10-X36150,39,high,high,low,low,high,low,is,0,X,0,3,positive,positive,no answer
+BOB17481,0,BOB17481,DI10-3653,40,low,low,low,low,low,low,is,0,X,0,2,positive,positive,no answer
+BOB18762,0,BOB18762,MS10-A79792,37,high,high,high,high,high,high,is,0,X,0,2,positive,positive,no answer
+BOB20101,0,BOB20101,S11-3479,33,high,high,low,low,low,low,is,0,X,0,2,positive,positive,negative
+BOB20533,0,BOB20533,MS11-009973,40,high,high,high,high,high,high,is,0,X,0,2,positive,negative,no answer
+BOB20722,0,BOB20722,BS11A43802,35,high,high,high,high,high,low,is,0,X,0,3,negative,negative,negative
+BOB21170,0,BOB21170,12:SF1135,38,high,high,high,high,high,high,is,X,X,0,3,negative,negative,no answer
+BOB21321,0,BOB21321,BS12-T14982,40,high,high,high,high,low,high,is,X,X,0,2,positive,positive,negative
+BOB21695,0,BOB21695,S11-9121,38,low,low,high,high,low,high,is,0,X,0,1,positive,positive,no answer
+BOB23664,0,BOB23664,BS13W00058,31,high,high,high,high,high,high,is,0,0,0,3,negative,negative,positive
+BOB23984,0,BOB23984,S12-17634,37,high,high,high,high,high,high,is,X,X,0,3,positive,positive,no answer
+BOB25183,0,BOB25183,S13-14980,36,low,low,low,low,low,high,is,X,X,0,3,negative,negative,no answer
+BOB26804,0,BOB26804,S14-45572,37,high,high,high,high,high,high,is,0,X,0,2,positive,positive,no answer
+BOB27302,0,BOB27302,S14-8609,40,high,high,low,low,high,low,is,0,X,0,2,positive,positive,indeterminate
+BOB28258,0,BOB28258,S15-21885,36,low,low,low,low,low,low,is,X,X,0,2,positive,positive,no answer
